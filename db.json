@@ -209,20 +209,6 @@
     "description": "Height-adjustable electric standing desk for ergonomic work setup",
     "price": 299.99,
     "image": "https://m.media-amazon.com/images/I/81gLwyPDreL._AC_UL640_FMwebp_QL65_.jpg"
-  },
-  {
-    "id": 31,
-    "name": "Cookware Set",
-    "description": "Complete cookware set for everyday cooking needs",
-    "price": 79.99,
-    "image": "https://m.media-amazon.com/images/I/71172cmSalL._AC_UL640_FMwebp_QL65_.jpg"
-  },
-  {
-    "id": 32,
-    "name": "Hair Dryer",
-    "description": "Ionic hair dryer for fast and gentle hair drying",
-    "price": 49.99,
-    "image": "https://m.media-amazon.com/images/I/71RWqh6KUWL._AC_UL640_FMwebp_QL65_.jpg"
   }
 ]
 }
