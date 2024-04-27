@@ -1,203 +1,203 @@
 {
 "products":[
   {
-    "id": 1,
+    "id": 0,
     "name": "Men's Casual Shirt",
     "description": "Comfortable and stylish casual shirt for men",
     "price": 29.99,
     "image": "https://m.media-amazon.com/images/I/913rSaxSMCL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 2,
+    "id": 1,
     "name": "Women's Running Shoes",
     "description": "Lightweight and durable running shoes for women",
     "price": 49.99,
     "image": "https://m.media-amazon.com/images/I/81CDGhyBKTS._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Smartphone Case",
     "description": "Protective case for smartphones",
     "price": 14.99,
     "image": "https://m.media-amazon.com/images/I/71CYMl3LuUL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Coffee Maker",
     "description": "Automatic coffee maker for home use",
     "price": 99.99,
     "image": "https://m.media-amazon.com/images/I/81ugZ2peAgL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Bluetooth Headphones",
     "description": "Wireless headphones with noise cancellation feature",
     "price": 79.99,
     "image": "https://m.media-amazon.com/images/I/61bnUaDGWPL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Gaming Mouse",
     "description": "High-precision gaming mouse for professional gamers",
     "price": 39.99,
     "image": "https://m.media-amazon.com/images/I/61QToR2+bBL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Women's Backpack",
     "description": "Stylish and spacious backpack for women",
     "price": 59.99,
     "image": "https://m.media-amazon.com/images/I/71olG7l8KlL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "Men's Watch",
     "description": "Elegant and classic wristwatch for men",
     "price": 129.99,
     "image": "https://m.media-amazon.com/images/I/81Kf11kINPL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Wireless Keyboard",
     "description": "Slim and ergonomic wireless keyboard for computers",
     "price": 49.99,
     "image": "https://m.media-amazon.com/images/I/715LTiwaPWL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Portable Speaker",
     "description": "Compact and powerful portable speaker for outdoor use",
     "price": 69.99,
     "image": "https://m.media-amazon.com/images/I/71coh8P4h6L._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "Fitness Tracker",
     "description": "Track your daily activities with this fitness tracker",
     "price": 89.99,
     "image": "https://m.media-amazon.com/images/I/7106liULlNL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "Laptop Sleeve",
     "description": "Protective sleeve for laptops with stylish design",
     "price": 24.99,
     "image": "https://m.media-amazon.com/images/I/51Y6Yj0lYxL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Dining Table Set",
     "description": "Complete dining table set with chairs for your home",
     "price": 349.99,
     "image": "https://m.media-amazon.com/images/I/81e6t0B04rL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "Yoga Mat",
     "description": "Non-slip yoga mat for practicing yoga and exercises",
     "price": 19.99,
     "image": "https://m.media-amazon.com/images/I/71zC5MVG2xL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "Travel Backpack",
     "description": "Durable backpack with multiple compartments for travelers",
     "price": 79.99,
     "image": "https://m.media-amazon.com/images/I/912LeKgCWaL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "Gaming Chair",
     "description": "Ergonomic gaming chair with adjustable features",
     "price": 199.99,
     "image": "https://m.media-amazon.com/images/I/61t4mpabO+L._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 17,
+    "id": 16,
     "name": "Smart TV",
     "description": "High-definition smart TV with built-in streaming apps",
     "price": 549.99,
     "image": "https://m.media-amazon.com/images/I/71bdeNqyARL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 18,
+    "id": 17,
     "name": "Digital Camera",
     "description": "Compact digital camera with advanced photography features",
     "price": 299.99,
     "image": "https://m.media-amazon.com/images/I/81lRtfnLuiL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 19,
+    "id": 18,
     "name": "Electric Toothbrush",
     "description": "Rechargeable electric toothbrush for effective oral care",
     "price": 39.99,
     "image": "https://m.media-amazon.com/images/I/71k+Kxu6pOL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 20,
+    "id": 19,
     "name": "Men's Leather Wallet",
     "description": "Genuine leather wallet with multiple card slots",
     "price": 49.99,
     "image": "https://m.media-amazon.com/images/I/81Heu9qgwrL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 21,
+    "id": 20,
     "name": "Women's Sunglasses",
     "description": "Stylish sunglasses with UV protection for women",
     "price": 29.99,
     "image": "https://m.media-amazon.com/images/I/518x3hr+cdL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 22,
+    "id": 21,
     "name": "Portable External Hard Drive",
     "description": "Compact and portable external hard drive for storing data",
     "price": 79.99,
     "image": "https://m.media-amazon.com/images/I/81RoNL1vovL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 23,
+    "id": 22,
     "name": "Wireless Earbuds",
     "description": "True wireless earbuds with long battery life",
     "price": 99.99,
     "image": "https://m.media-amazon.com/images/I/41+1Csr1pSL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 24,
+    "id": 23,
     "name": "Desk Lamp",
     "description": "Adjustable desk lamp for study and work",
     "price": 34.99,
     "image": "https://m.media-amazon.com/images/I/61s7RGRwSoL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 25,
+    "id": 24,
     "name": "Electric Kettle",
     "description": "Fast-boiling electric kettle for making hot beverages",
     "price": 19.99,
     "image": "https://m.media-amazon.com/images/I/71nQrnt1SlL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 26,
+    "id": 25,
     "name": "Wireless Charging Pad",
     "description": "Qi-certified wireless charging pad for smartphones",
     "price": 24.99,
     "image" : "https://m.media-amazon.com/images/I/71pdovP3iFL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 27,
+    "id": 26,
     "name": "Wireless Gaming Controller",
     "description": "Wireless gaming controller for PC and consoles",
     "price": 49.99,
     "image": "https://m.media-amazon.com/images/I/71q+qVrrqeL._AC_UY436_FMwebp_QL65_.jpg"
   },
   {
-    "id": 28,
+    "id": 27,
     "name": "Travel Neck Pillow",
     "description": "Memory foam travel neck pillow for comfortable journeys",
     "price": 19.99,
     "image": "https://m.media-amazon.com/images/I/81Fy+yZT+xL._AC_UL640_FMwebp_QL65_.jpg"
   },
   {
-    "id": 29,
+    "id": 28,
     "name": "Smart Doorbell Camera",
     "description": "Wireless smart doorbell camera with motion detection",
     "price": 129.99,
